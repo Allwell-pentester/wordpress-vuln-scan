@@ -1,8 +1,11 @@
 📄 Penetration Testing Report
 
 Target: example.com
+
 Assessment Type: Web Application Security (WordPress)
+
 Tester: Allwell victory chibuisi
+
 Date: [29/03/2026]
 ________________________________________
 🧾 1. Executive Summary
