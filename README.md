@@ -101,5 +101,5 @@ o	Output encoding
 ________________________________________
 ⚠️ 7. Disclaimer
 This assessment was conducted in an authorized and controlled environment for educational and security improvement purposes only.
-use 4,5,6,7,9,12 to view the images on the folder
+use 4,5,6,7,12 to view the images on the folder
 
